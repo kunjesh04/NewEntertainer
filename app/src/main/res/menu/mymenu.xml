@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/movies"
+    android:title="Movies"
+    android:icon="@drawable/movieicon"></item>
+    <item
+        android:id="@+id/playlists"
+        android:title="Playlists"
+        android:icon="@drawable/playlisticon"/>
+    <item
+        android:id="@+id/videos"
+        android:title="Videos"
+        android:icon="@drawable/videosicon"/>
+    <item
+        android:id="@+id/shows"
+        android:title="Web Shows"
+        android:icon="@drawable/showsicon"/>
+</menu>
